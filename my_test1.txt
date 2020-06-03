@@ -1,0 +1,37 @@
+1
+2
+4
+Gav
+James
+Harland
+micheal
+turn 2 L 2
+0
+turn 3 U 2
+1
+turn 4 Y 3
+0
+turn 7 B 3
+1
+turn 0 U 1
+turn 5 R 1
+0
+turn 8 B 5
+0
+turn 0 L 2
+turn 10 U 3
+1
+turn 6 L 3
+1
+turn 1 B 5
+turn 9 U 1
+0
+turn 1 U 3
+turn 1 L 3
+turn 1 R 2
+turn 0 R 4
+turn 0 Y 4
+turn 1 Y broken
+turn 0 B 1
+turn 0 L broken
+

@@ -1,0 +1,7 @@
+2
+cantAddToPatternBecauseAlreadyOnWall
+turn 1 R 3
+turn 1 U 4
+turn 1 R 1
+turn 4 U 2
+save cantAddToPatternBecauseAlreadyOnWall.out

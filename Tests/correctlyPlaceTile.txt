@@ -1,0 +1,7 @@
+1
+Jordan
+Hacking
+turn 3 L 3
+turn 4 U 2
+turn 2 B 3
+save correctlyPlacedTile.out

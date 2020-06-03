@@ -1,0 +1,4 @@
+2
+addToBrokenPatternDirect
+turn 0 Y broken
+save addToBrokenPatternDirect.out

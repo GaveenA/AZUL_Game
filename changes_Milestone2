@@ -1,0 +1,28 @@
+changed factories in Game class from an pointer to an array of factory objects which was of fixed size before (5) to a vector of pointers to Factory objects.
+THis follows the implementation of player which is also a vector of pointers to player objects.  
+
+
+
+
+add to floor directly fix that - DONE
+
+Display Opponent Factories :: DOne 
+
+
+Fix the game quit in main menue which causes 'abort trap ' and bus error
+
+
+Check conndition where you add from one CF to another. - NOT APPLICABLE
+
+TO DO
+Fill the tile bag from box lid if number of tiles remaining in tile bag is less than minimun number of tiles needed 
+to start the next round. 
+problem likely in fillfactories.
+ 
+
+
+When a player types help 
+-- > Show the tiles that can be placed in each pattern 
+Show the possible commands 
+
+Chage privacy of new fucntions 

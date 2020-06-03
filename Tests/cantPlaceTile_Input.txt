@@ -1,0 +1,9 @@
+2
+cantPlaceTile
+turn 0 R 2
+turn 0 L 2
+turn 0 U 2
+turn 5 R 2
+turn 5 Y 2
+turn 5 U 2
+save cantPlaceTile.out
